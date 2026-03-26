@@ -1,4 +1,4 @@
-Istruzini Progetto
+Istruzioni Progetto
 
 
 Il progetto e costituito da 6 file in totale. Alcuni di essi non hanno un utilizzo diretto, tuttacia per mantenere il progetto aggiornabile è necessario includerli.
